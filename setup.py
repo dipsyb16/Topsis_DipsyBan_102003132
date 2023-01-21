@@ -7,7 +7,7 @@ setup(
   description = 'This package is implimentation of multi-criteria decision analysis using topsis',   # Give a short description about your library
   author = 'Dipsy Bansal',                   # Type in your name
   author_email = 'dbansal1_be20@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/dipsyb16/Topsis_Dipsy_102003132',   # Provide either the link to your github or to your website
+  url = 'https://github.com/dipsyb16/Topsis_DipsyBan_102003132',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/dipsyb16/Topsis_Dipsy_102003132/archive/refs/tags/v_0.1.tar.gz',    # I explain this later on
   keywords = ['topsis'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
